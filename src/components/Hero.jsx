@@ -42,7 +42,7 @@ const Hero = () => {
        <div id="cta" className="flex flex-col items-center opacity-0 translate-y-20">
 
         <a href="#highlights" className="btn"> Buy </a>
-        <p className='font-normal text-xl'>Just sell your one kidney</p>
+        <p className='font-normal text-xl'>From ₹119900.00*or ₹4912.00/mo. for 24 mo.‡</p>
         </div> 
     </section>
   )
