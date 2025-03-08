@@ -1,6 +1,4 @@
-Here's a **well-structured, professional** `README.md` for your **Apple Website Clone**, covering **HTML, CSS, and JavaScript** as well.  
 
----
 
 # 🍏 Apple Website Clone  
 
@@ -163,6 +161,4 @@ This project is **open-source** and available under the **MIT License**.
 💼 **LinkedIn**: https://www.linkedin.com/in/atulsahu/ 
  
 
----
 
-This README provides **clarity, professionalism, and easy navigation**, covering **HTML, CSS, JavaScript, and React**. Let me know if you’d like any tweaks! 🚀🔥
