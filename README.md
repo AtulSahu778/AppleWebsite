@@ -78,11 +78,6 @@ Ensure you have **Node.js (v16+)** and **npm** installed on your machine.
 
 ---
 
-## 📸 Screenshots *(Optional - Add UI snapshots for better visualization)*  
-
-| Home Page  | Product Section |
-|------------|----------------|
-| *(Insert Image)* | *(Insert Image)* |
 
 ---
 
