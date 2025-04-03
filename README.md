@@ -4,7 +4,7 @@
 
 A **modern, responsive Apple website replica** built using **HTML, CSS, JavaScript, React, Vite, Tailwind CSS, Three.js, and GSAP**. This project aims to recreate Apple's sleek UI/UX with smooth animations and interactive 3D elements.  
 
-![Apple Website Clone Preview](https://your-image-url.com) *(Optional: Add a screenshot of the website for better visualization.)*  
+
 
 ---
 
